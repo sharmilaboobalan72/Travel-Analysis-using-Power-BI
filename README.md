@@ -1,6 +1,6 @@
 # Travel-Analysis-using-Power-BI
 
-Problem statement:
+**Problem statement:**
 
 New travelers often have difficulty identifying the transportation cost and accommodation cost for different destinations. They may also have questions about the specific details of each destination..
 The traveler trip data dataset from Kaggle can be used to help new travelers address these challenges. The dataset contains information such as traveler trips, including the traveler's profile, trip details, and expenses.
@@ -21,11 +21,9 @@ This dashboard can be used to answer a variety of questions about traveler behav
 
 •	What are the typical transportation cost and accommodation cost for different destinations?
 
-•	Which destinations are most popular with different types of travelers (e.g., families, couples, solo travelers)?
+•	Which destinations are most popular with different types of travelers ?
 
 •	What are the most popular accommodation types for travelers with different budgets?
-
-•	Which destinations have the longest and shortest trip durations?
 
 •	What are the most popular transportation types used by travelers?
 
