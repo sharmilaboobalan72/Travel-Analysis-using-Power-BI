@@ -3,8 +3,12 @@
 Problem statement:
 
 New travelers often have difficulty identifying the transportation cost and accommodation cost for different destinations. They may also have questions about the specific details of each destination..
-The traveler trip data dataset from Kaggle can be used to help new travelers address these challenges. The dataset contains information such as traveler trips, including the traveler's profile, trip details, and expenses. This information can be used to:
+The traveler trip data dataset from Kaggle can be used to help new travelers address these challenges. The dataset contains information such as traveler trips, including the traveler's profile, trip details, and expenses.
+
+ This information can be used to:
+ 
 •	Provide estimates of transportation cost and accommodation cost for different destinations.
+
 •	Identify the most popular destinations for different types of travelers.
 
 **Dataset:** Rkiattisak, R. (2023). Traveler Trip Data. Kaggle. https://www.kaggle.com/datasets/rkiattisak/traveler-trip-data
